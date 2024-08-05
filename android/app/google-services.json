@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613487542993",
+    "project_id": "baghdad-company",
+    "storage_bucket": "baghdad-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613487542993:android:732aca625665858f2cfbf0",
+        "android_client_info": {
+          "package_name": "com.iqb.baghdadcompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnlQLtIQY21Qzs0GYIZwP87607SsfNNnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
